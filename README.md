@@ -1,5 +1,5 @@
 # Marlin-2.0.6.1-ENDER-3-PRO---Silent-Board
-Marlin para Ender 3 con Board 1.1.5
+Marlin para Ender 3 con Tarjeta 1.1.5
 ==========
 
 MI LEMA; Sino me a costado aprenderlo, pues tampoco enseñarlo...
@@ -11,8 +11,11 @@ Mejoras:
 + NIVELACION MANUAL DE LAS ESQUINAS
 + PAUSA AVANZADA
 + BABYSTEPS
++ DRIVERS SILENCIOSOS
 + SUAVIZADO DE PASOS
 + CAMBIO DE FILAMENTO
++ RECUPERACION DE IMPRESION (SD)
+
 
 Blog personal donde aprender mas:
 --------------------
